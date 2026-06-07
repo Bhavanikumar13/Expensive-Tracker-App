@@ -278,7 +278,3 @@ If you wish to enable cloud sync:
 * **Static Shader Caching:** Custom shaders are cached inside drawing rectangles to avoid rebuilding paint contexts on every frame tick.
 * **Asset-free footprint:** The entire motion graphics mesh grid and branding animation rely entirely on vector math calculations, reducing installation size and memory overhead.
 
----
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
